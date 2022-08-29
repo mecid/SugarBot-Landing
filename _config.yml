@@ -35,28 +35,20 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Diet-Free Weight Loss
-    description                           : Fasting was found to be more effective than calorie restriction at increasing fat loss while simultaneously preserving muscle tissue.
+  - title                                 : Food logging
+    description                           : Logging food is a proven method for losing weight, eating healthier, and reaching peak athletic goals.
     fontawesome_icon_name                 : balance-scale
     
-  - title                                 : Reduce Insulin Resistance
-    description                           : Several studies have found that fasting may improve blood sugar control, which could be especially useful for those at risk of diabetes.
+  - title                                 : Sugar tracking
+    description                           : Regular sugar monitoring is the most important thing you can do to manage type 1 or type 2 diabetes.
     fontawesome_icon_name                 : star-of-life
 
-  - title                                 : Increases Growth Hormone
-    description                           : Human growth hormone (HGH) is a type of protein hormone that is central to many aspects of your health like Metabolism, Weight Loss and Muscle Strength.
-    fontawesome_icon_name                 : dumbbell
-
   - title                                 : Insights
-    description                           : A powerful insight analyzer allows you to understand how different fasting stages improve your health and reduce body fat.
+    description                           : You’ll be able to see what makes your numbers go up or down, such as eating different foods, taking your medicine, or being physically active.
     fontawesome_icon_name                 : chart-bar
-
-  - title                                 : Get In Shape With Friends
-    description                           : Add friends and share your data to reduce weight and body fat together by motivating each other.
-    fontawesome_icon_name                 : users
   
   - title                                 : Recommendations
-    description                           : An intelligent recommendations system gives you hints on reducing weight and body fat.
+    description                           : An intelligent recommendations system gives you hints on maintaining macro and micro nutrients intake.
     fontawesome_icon_name                 : comment
 
   - title                                 : # New Feature Title
