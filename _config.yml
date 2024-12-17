@@ -52,8 +52,8 @@ features                                  :
     fontawesome_icon_name                 : comment
 
   - title                                 : GPT assistant
-    description                           : Describe your dish, and SugarBot GPT calculates calories and sugar instantly!
-    fontawesome_icon_name                 : wand-sparkles
+    description                           : Describe your dish, and SugarBot GPT calculates calories and sugar instantly.
+    fontawesome_icon_name                 : sparkles
 
 
 
