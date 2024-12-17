@@ -51,9 +51,9 @@ features                                  :
     description                           : An intelligent recommendations system gives you hints on maintaining macro and micro nutrients intake.
     fontawesome_icon_name                 : comment
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : GPT assistant
+    description                           : Describe your dish, and SugarBot GPT calculates calories and sugar instantly!
+    fontawesome_icon_name                 : wand-sparkles
 
 
 
